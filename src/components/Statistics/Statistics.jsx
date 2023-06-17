@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-import { StatisticList } from 'components/StatisticList/StatisticList';
+import { StatisticList } from 'components/Statistics/StatisticList/StatisticList';
 
 export const Statistics = ({ title, stats }) => {
   return (

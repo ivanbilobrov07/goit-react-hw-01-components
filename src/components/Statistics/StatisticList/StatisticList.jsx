@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-import { StatisticCard } from 'components/StatistcCard/StatisticCard';
+import { StatisticCard } from 'components/Statistics/StatistcCard/StatisticCard';
 import { StatisticContainer } from './StatisticList.styled';
 
 export const StatisticList = ({ stats }) => {
